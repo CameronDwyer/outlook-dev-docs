@@ -8,3 +8,6 @@
   href: concepts.md
 - name: Reference
   href: reference.md
+- name: Azure AD Docs
+  href: /azure/active-directory/develop/TOC.md
+  maintainContext: true
