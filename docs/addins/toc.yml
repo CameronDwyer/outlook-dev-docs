@@ -9,5 +9,5 @@
 - name: Reference
   href: reference.md
 - name: Azure AD Docs
-  href: /azure/active-directory/develop/TOC.md
+  href: /azure/active-directory/develop/active-directory-developers-guide.md
   maintainContext: true
